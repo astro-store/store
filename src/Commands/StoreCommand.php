@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AstroStore\Store\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class StoreCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'store';
 
     public $description = 'My command';
 
